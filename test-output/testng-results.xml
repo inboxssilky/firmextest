@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26794" started-at="2019-02-28T05:16:26Z" finished-at="2019-02-28T05:16:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26794" started-at="2019-02-28T05:16:26Z" finished-at="2019-02-28T05:16:53Z">
+      <class name="testcases.TestCaseOne">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TestCaseOne@cb5822]" name="beforeMethod" is-config="true" duration-ms="16493" started-at="2019-02-28T00:16:26Z" finished-at="2019-02-28T00:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:testcases.TestCaseOne@cb5822]" name="verifyTitleTest" duration-ms="142" started-at="2019-02-28T00:16:43Z" finished-at="2019-02-28T00:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="verifyLoginPageTest()[pri:2, instance:testcases.TestCaseOne@cb5822]" name="verifyLoginPageTest" duration-ms="7574" started-at="2019-02-28T00:16:43Z" finished-at="2019-02-28T00:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTest -->
+        <test-method status="PASS" signature="verifyErrorMessage()[pri:3, instance:testcases.TestCaseOne@cb5822]" name="verifyErrorMessage" duration-ms="1237" started-at="2019-02-28T00:16:50Z" finished-at="2019-02-28T00:16:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMessage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TestCaseOne@cb5822]" name="afterMethod" is-config="true" duration-ms="1265" started-at="2019-02-28T00:16:52Z" finished-at="2019-02-28T00:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.TestCaseOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
